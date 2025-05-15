@@ -1,0 +1,23 @@
+.connection-status {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 14px;
+    font-weight: 500;
+  }
+  
+  .connected {
+    color: #27ae60;
+    font-weight: 600;
+  }
+  
+  .disconnected {
+    color: #e74c3c;
+    font-weight: 600;
+  }
+  
+  .last-updated {
+    margin-left: 10px;
+    color: #7f8c8d;
+    font-size: 12px;
+  }
